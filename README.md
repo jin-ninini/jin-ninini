@@ -8,4 +8,4 @@ This GitHub is where I document what I learn, explore, and build along the way.
 
 ## 🔗 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr) · 📸 [Instagram](https://www.instagram.com/din_ninini/)
+💼 [LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr) · 📝 [Velog](https://velog.io/@jin_ninini) · 📸 [Instagram](https://www.instagram.com/din_ninini/)
