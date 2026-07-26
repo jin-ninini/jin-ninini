@@ -6,6 +6,6 @@ I'm interested in using data and technology to understand problems, make better 
 
 This GitHub is where I document what I learn, explore, and build along the way.
 
-## 🔗 Connect
+## Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr) · 📝 [Velog](https://velog.io/@jin_ninini) · 📸 [Instagram](https://www.instagram.com/din_ninini/)
