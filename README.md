@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hyunjin Hwang
 
-<!--
-**jin-ninini/jin-ninini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome!
 
-Here are some ideas to get you started:
+Hi, I'm **Hyunjin Hwang**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in understanding problems through data and technology,  
+and turning insights into better decisions and more efficient processes.
+
+This is where I document what I learn, explore, and build along the way.
+
+## 🔗 More about me
+
+> Experience, activities, and stories beyond GitHub.
+
+💼 **[LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr)** — Experience & Career
+
+📸 **[Instagram](https://www.instagram.com/din_ninini/)** — Activities & Community
