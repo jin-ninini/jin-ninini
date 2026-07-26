@@ -1,18 +1,9 @@
-# Hyunjin Hwang
-
-## 👋 Welcome!
-
 Hi, I'm **Hyunjin Hwang**.
 
-I'm interested in understanding problems through data and technology,  
-and turning insights into better decisions and more efficient processes.
+I'm interested in using data and technology to understand problems, make better decisions, and improve how things work.
 
-This is where I document what I learn, explore, and build along the way.
+This GitHub is where I document what I learn, explore, and build.
 
-## 🔗 More about me
+## Connect
 
-> Experience, activities, and stories beyond GitHub.
-
-💼 **[LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr)** — Experience & Career
-
-📸 **[Instagram](https://www.instagram.com/din_ninini/)** — Activities & Community
+[LinkedIn](https://www.linkedin.com/in/hyunjin-hwang-kr) · [Instagram](https://www.instagram.com/din_ninini/)
